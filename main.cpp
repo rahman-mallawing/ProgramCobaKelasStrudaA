@@ -11,7 +11,7 @@ int main(){
 		Deklarasi mahasiswa 1 
 		dengan memberi penomoran pada variabel
 	*/
-	string nama_1 = "Arifudding"; 
+	string nama_1 = "Sukoco"; 
 	char nim_1[10] = "080940101"; 
 	char jenisKelamin_1 = 'L';
 	int umur_1 = 19;
